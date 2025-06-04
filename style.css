@@ -27,3 +27,47 @@ justify-content: center;
 h1 {
     font-size: 40px;
 }
+
+body {
+color: white;
+background: black;
+margin: 0px;
+ }
+
+header {
+border-bottom: solid 2px , rgb( 8, 102, 53);
+padding: 20px;
+font-size: 32px;
+color: rgb( 8, 102, 53);
+ }
+
+.camada {
+background: rgb( 12, 139, 67);
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+ }
+
+ .chamada-texto {
+    margin-right: 5%;
+ }
+
+h1 {
+font-size: 40px;
+ }
+
+img {
+    height: 200px;
+}
+
+.categoria-videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.categoria {
+    padding-left: 20px;
+    padding-right: 20px;
+}
