@@ -2,17 +2,18 @@ body {
 color: white;
 background: black;
 margin: 0px;
+font-family: 'Chakra Petch', sans-serif;
  }
 
 header {
-border-bottom: solid 2px , rgb( 8, 102, 53);
+border-bottom: solid 2px , rgb( 0,0,0);
 padding: 20px;
 font-size: 32px;
-color: rgb( 8, 102, 53);
+color: rgb( 0,0,0);
  }
 
 .camada {
-background: rgb( 12, 139, 67);
+background: rgb( 0,0,0);
 padding-bottom: 80px;
 padding-top: 80px;
 display: flex;
@@ -29,10 +30,6 @@ font-size: 40px;
 
 p {
 font-size: 20px;
-}
-
-img {
- height: 200px;
 }
 
 .categoria-videos{
